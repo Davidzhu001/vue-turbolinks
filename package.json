@@ -17,6 +17,6 @@
     "turbolinks"
   ],
   "dependencies": {
-    "vue": "^2.2.4"
+    "vue": "^2.2.6"
   }
 }
